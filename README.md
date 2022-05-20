@@ -1,2 +1,2 @@
 # CFLA
-concise ethical addendum to existing open-source licenses
+concise ethical (friendliness) addendum to existing open-source licenses
