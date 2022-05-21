@@ -13,6 +13,9 @@ FOSS licenses also deal with questions of ethics, but only the ones that mattere
 
 Either the vision of creating a better world never occured to the creator of FOSS licenses, or when faced with the option of choosing between popularity of their license or other benefits for themselves, and ethics of the license, they chose benefits for themselves.
 
+# Why friendliness in name instead of "ethics"?
+Ethics is a basterdized term, which has been hijacked by people to justify their own unfriendly behavior at times. People who are genuniely working on the questions of ethics would soon come to the conclusion that they want the world to be a more friendly place. Moreover, friendship is the only unblemished relationship. You might have heard of parental trauma, relationship trauma, workplace trauma, battelfield trauma, etc. Have you ever heard of the term friendliness trauma? No, because its a mostly unspoken contract/license that just works.
+
 # Text of CFLA v1.0 (latest) license
 
 The following text of CFLA v1.0 license addendum is also available as a standalone file named LICENSE_ADDENDUM_CFLA in this repository.
