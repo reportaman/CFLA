@@ -1,9 +1,5 @@
 # CFLA
-CFLA stands for "Collective Friendliness License Addendum"
-
-It aims to be a concise ethical (friendliness) addendum to existing open or closed-source licenses.
-
-Currently it is in its version 1.0 state. In future another version might be made available if there is a compelling point made from community.
+CFLA stands for "Collective Friendliness License Addendum". It aims to be a concise ethical (friendliness) addendum to existing open or closed-source licenses. It is currently in its version 1.0 state. In future another version might be made available if there is a compelling point made from community.
 
 # Why not just a FOSS license?
 FOSS (Free and Open Source) licenses with their statements like "The freedom to run the program as you wish, for any purpose" fails at inspiring the world to be a better place. Perhaps it was reflective of the guilt of the creators of FOSS (who maybe do not ever want to improve as individuals). CFLA intends to make open source a medium to inspire a better world, which FOSS licenses fail at.
