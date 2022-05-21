@@ -5,6 +5,14 @@ It aims to be a concise ethical (friendliness) addendum to existing open or clos
 
 Currently it is in its version 1.0 state. In future another version might be made available if there is a compelling point made from community.
 
+# Why not just a FOSS license?
+FOSS (Free and Open Source) licenses with their statements like "The freedom to run the program as you wish, for any purpose" fails at inspiring the world to be a better place. Perhaps it was reflective of the guilt of the creators of FOSS (who maybe do not ever want to improve as individuals). CFLA intends to make open source a medium to inspire a better world, which FOSS licenses fail at.
+
+# Why this ethics business?
+FOSS licenses also deal with questions of ethics, but only the ones that mattered to them (and their funding/collaborating corporations/institutions).
+
+Either the vision of creating a better world never occured to the creator of FOSS licenses, or when faced with the option of choosing between popularity of their license or other benefits for themselves, and ethics of the license, they chose benefits for themselves.
+
 # Text of CFLA v1.0 (latest) license
 
 The following text of CFLA v1.0 license addendum is also available as a standalone file named LICENSE_ADDENDUM_CFLA in this repository.
