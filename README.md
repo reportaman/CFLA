@@ -11,6 +11,8 @@ The following text of CFLA v1.0 license addendum is also available as a standalo
 
 
 ```
+Source: https://github.com/reportaman/CFLA
+
 CFLA v1.0 ("Collective Friendliness License Addendum" version 1.0)
 extends an existing license in an open or closed-source
 project with an ethical (friendliness) addendum
