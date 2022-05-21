@@ -58,9 +58,9 @@ f) work shall not be used for promoting, expressing,
    or perpetuating greed, hatred, or delusion of any kind
    not expressly covered in the prior clauses.
    On the contrary one can use work to promote
-   generosity, friendliness, useful truths or belief-based
-   practices known to promote collective health, happiness,
-   comforts, and peace.
+   sharing, generosity, friendliness, useful truths or
+   belief-based practices known to promote collective health,
+   happiness, comforts, and peace.
 
 Any violation of above mentioned clauses nullifies any
 license this addendum is found with, a) in extension of
