@@ -1,7 +1,7 @@
 # CFLA
 CFLA stands for "Collective Friendliness License Addendum"
 
-It aims to be a concise ethical (friendliness) addendum to existing open-source licenses.
+It aims to be a concise ethical (friendliness) addendum to existing open or closed-source licenses.
 
 Currently it is in its version 1.0 state. In future another version might be made available if there is a compelling point made from community.
 
