@@ -58,7 +58,7 @@ f) work shall not be used for promoting, expressing,
    or perpetuating greed, hatred, or delusion of any kind
    not expressly covered in the prior clauses.
    On the contrary one can use work to promote
-   sharing, friendliness, useful truths or belief-based
+   generosity, friendliness, useful truths or belief-based
    practices known to promote collective health, happiness,
    comforts, and peace.
 
